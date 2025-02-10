@@ -4,7 +4,7 @@
 This repository contains the projects I have completed as part of the CodSoft Internship Program. The internship focuses on hands-on experience in Machine Learning.
 
 ### Projects
-#### 1️⃣ Customer Churn Prediction
+#### 1. Customer Churn Prediction
 **Description:** This project aims to predict whether a customer is likely to churn (stop using a service) based on various factors. The model helps businesses take proactive measures to retain customers.
 
 **Dataset:** The dataset contains customer details from a banking institution. Below are the key features:  
