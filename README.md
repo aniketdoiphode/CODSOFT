@@ -33,6 +33,6 @@ This repository contains the projects I have completed as part of the CodSoft In
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score
 
 
-- ### Connect
+### Connect
 
-**LinkedIn:** https://www.linkedin.com/in/aniket-doiphode
+- **LinkedIn:** https://www.linkedin.com/in/aniket-doiphode
