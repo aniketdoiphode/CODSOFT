@@ -5,9 +5,9 @@ This repository contains the projects I have completed as part of the CodSoft In
 
 ### Projects
 #### 1. Customer Churn Prediction
-**Description:** This project aims to predict whether a customer is likely to churn (stop using a service) based on various factors. The model helps businesses take proactive measures to retain customers.
+- **Description:** This project aims to predict whether a customer is likely to churn (stop using a service) based on various factors. The model helps businesses take proactive measures to retain customers.
 
-**Dataset:** The dataset contains customer details from a banking institution. Below are the key features:  
+- **Dataset:** The dataset contains customer details from a banking institution. Below are the key features:  
 
 | Column Name          | Description |
 |----------------------|-------------|
@@ -26,13 +26,13 @@ This repository contains the projects I have completed as part of the CodSoft In
 | **EstimatedSalary**  | Estimated annual salary of the customer |
 | **Churn** (Target)   | Whether the customer churned (1 = Yes, 0 = No) |
 
-**Technologies Used:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Technologies Used:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-**Machine Learning Models:** Logistic Regression, Random Forest, GdBoost
+- **Machine Learning Models:** Logistic Regression, Random Forest, GdBoost
 
-**Evaluation Metrics:** Accuracy, Precision, Recall, F1-score
+- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score
 
 
-### Connect
+- ### Connect
 
 **LinkedIn:** https://www.linkedin.com/in/aniket-doiphode
